@@ -1,0 +1,32 @@
+body {
+	background-color: white
+}
+h1 {
+	color: black;
+	font-weight: bold ;
+	font-family: "Quicksand" 
+}
+
+.colors r {
+	color: red;
+}
+
+.colors o {
+	color: orange;
+}
+
+.colors y {
+	color: yellow;
+}
+.colors g {
+	color: green;
+}
+.colors bl {
+	color: blue;
+}
+.colors pu {
+	color: purple;
+}
+.colors v {
+	color: violet;
+}
