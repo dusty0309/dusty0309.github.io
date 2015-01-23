@@ -1,2 +1,2 @@
 var qp = document.querySelector('#quote');
-console.log(qp)
+qp.innerText = qqqqqqqqqqqqqqqqqqqquuuuuuuuuuuuuuuuuuooooooooottttteeeeeeeeeeeeeeeeeeee
