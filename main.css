@@ -4,7 +4,15 @@ body {
 h1 {
 	color: black;
 	font-weight: bold ;
-	font-family: "Quicksand" 
+	font-family: "Quicksand";
+}
+
+h1:hover {
+	color: gray;
+	font-weight: bold ;
+	font-family: "Quicksand";
+	transform: rotate(180deg);
+	transition 0.5s ease-in-out; 
 }
 
 .colors r {
@@ -30,3 +38,5 @@ h1 {
 .colors v {
 	color: violet;
 }
+
+
