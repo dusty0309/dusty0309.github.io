@@ -1,1 +1,2 @@
-document.write(document.lastModified);
+var qp = document.querySelector('#quote');
+console.log(qp)
