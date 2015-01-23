@@ -2,7 +2,7 @@ function choose(choices) {
     return choices[Math.floor(Math.random() * choices.length)] 
 }
 
-var quotes [
+var quotes = [
   'hi',
   'bye',
   'hello'
